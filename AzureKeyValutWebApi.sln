@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureKeyValutWebApi", "AzureKeyValutWebApi\AzureKeyValutWebApi.csproj", "{30FF212C-62B6-49AD-9856-37B12054E98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FF212C-62B6-49AD-9856-37B12054E98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FF212C-62B6-49AD-9856-37B12054E98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FF212C-62B6-49AD-9856-37B12054E98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FF212C-62B6-49AD-9856-37B12054E98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A77A5A9E-2CF7-48E0-9F02-148DD51ABFB9}
+	EndGlobalSection
+EndGlobal
